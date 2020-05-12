@@ -1,0 +1,10 @@
+C:\Users\Aleks\source\repos\6.4F\6.4F\bin\Debug\6.4F.exe.config
+C:\Users\Aleks\source\repos\6.4F\6.4F\bin\Debug\6.4F.exe
+C:\Users\Aleks\source\repos\6.4F\6.4F\bin\Debug\6.4F.pdb
+C:\Users\Aleks\source\repos\6.4F\6.4F\obj\Debug\6.4F.csprojAssemblyReference.cache
+C:\Users\Aleks\source\repos\6.4F\6.4F\obj\Debug\_6._4F.Form1.resources
+C:\Users\Aleks\source\repos\6.4F\6.4F\obj\Debug\_6._4F.Properties.Resources.resources
+C:\Users\Aleks\source\repos\6.4F\6.4F\obj\Debug\6.4F.csproj.GenerateResource.cache
+C:\Users\Aleks\source\repos\6.4F\6.4F\obj\Debug\6.4F.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\source\repos\6.4F\6.4F\obj\Debug\6.4F.exe
+C:\Users\Aleks\source\repos\6.4F\6.4F\obj\Debug\6.4F.pdb
